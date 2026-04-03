@@ -1,7 +1,7 @@
 import cdsapi
 
 c = cdsapi.Client(url="https://cds.climate.copernicus.eu/api", 
-                  key="...")
+                  key="YOUR_ACTUAL_KEY_HERE")
 
 variables = [
     '2m_temperature',
