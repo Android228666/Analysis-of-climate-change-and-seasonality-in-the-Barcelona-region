@@ -36,10 +36,10 @@ The project follows a standard data science pipeline:
 4. **Modeling:** Applying Machine Learning techniques to identify patterns in seasonal transitions and extreme event occurrences.
 
 ## Main Findings
-- [cite_start]**Temperature:** A clear upward trend in temperatures was confirmed, with summer becoming increasingly intense[cite: 1].
-- [cite_start]**Summer Duration:** Observations indicate a measurable extension of the summer period[cite: 1].
-- [cite_start]**Extreme Events:** Increased frequency of extremely hot days and heavy rainfall bursts[cite: 1].
-- [cite_start]**Limitations:** ERA5 data provides a smoothed spatial average, which may slightly underestimate local urban heat island effects or hyper-local extremes[cite: 1].
+- **Temperature:** A clear upward trend in temperatures was confirmed, with summer becoming increasingly intense.
+- **Summer Duration:** Observations indicate a measurable extension of the summer period.
+- **Extreme Events:** Increased frequency of extremely hot days and heavy rainfall bursts.
+- **Limitations:** ERA5 data provides a smoothed spatial average, which may slightly underestimate local urban heat island effects or hyper-local extremes.
 
 ## Requirements
 To run the data collection script, you will need:
